@@ -791,7 +791,7 @@
 		};
 		1FF16580199A6C950080D9A5 /* Fetch Prism Resources */ = {
 			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
+			buildActionMask = 12;
 			files = (
 			);
 			inputPaths = (
